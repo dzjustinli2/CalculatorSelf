@@ -10,7 +10,6 @@ import UIKit
 
 class CalculatorViewController: UIViewController {
 
-    @IBInspectable
     @IBOutlet weak var calculationStepsLabel: UILabel!
 
     @IBOutlet weak var resultLabel: UILabel!
